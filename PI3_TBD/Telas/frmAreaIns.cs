@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using MVC.Classes;
 
 namespace MVC.Telas
-{
+{//PInto
     public partial class frmAreaIns : Form
     {
         public frmAreaIns()
